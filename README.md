@@ -1,1 +1,1 @@
-👋 Hey, i am daivik. Currently studying engineering @ UofT and building side projects
+👋 Hey, i am daivik. currently studying engineering @ UofT and building side projects.
