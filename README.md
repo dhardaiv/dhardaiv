@@ -28,7 +28,8 @@
 ![Overleaf](https://img.shields.io/badge/Overleaf-47A141?style=for-the-badge&logo=Overleaf&logoColor=white)
 
 
-### GitHub Stats 
-<div align= "center">
-  <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=dhardaiv" alt="daivikdhar" />
-</div>
+## Stats Available
+
+<img width=400 src='https://github-readme-stats.vercel.app/api?username=dhardaiv&theme=vue-dark&show_icons=true&hide_border=true&count_private=true' />
+<img width=400 src='https://github-readme-streak-stats.herokuapp.com/?user=dhardaiv&theme=vue-dark&hide_border=true' />
+<img width=400 src='https://github-readme-stats.vercel.app/api/top-langs/?username=dhardaiv&theme=vue-dark&show_icons=true&hide_border=true&layout=compact' />
