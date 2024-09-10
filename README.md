@@ -30,5 +30,5 @@
 
 ### GitHub Stats 
 <div align= "center">
-  <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=anjalig21" alt="anjaligupta" />
+  <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=dhardaiv" alt="daivikdhar" />
 </div>
