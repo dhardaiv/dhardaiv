@@ -1,4 +1,5 @@
-👋Hey, I am 'Daivik'. currently studying engineering @ UofT and building side projects.
+👋Hey, I am Daivik. currently studying engineering @ UofT and building side projects.
+
 
 
 
@@ -25,3 +26,9 @@
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)
 ![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![Overleaf](https://img.shields.io/badge/Overleaf-47A141?style=for-the-badge&logo=Overleaf&logoColor=white)
+
+
+### GitHub Stats 
+<div align= "center">
+  <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=anjalig21" alt="anjaligupta" />
+</div>
