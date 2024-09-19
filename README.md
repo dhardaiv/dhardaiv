@@ -32,5 +32,3 @@
 
 <img width=400 src='https://github-readme-stats.vercel.app/api?username=dhardaiv&theme=black&show_icons=true&hide_border=true&count_private=true' />
 <img width=400 src='https://github-readme-streak-stats.herokuapp.com/?user=dhardaiv&theme=black&hide_border=true' />
-
-<img width=400 src='https://github-readme-stats.vercel.app/api/top-langs/?username=dhardaiv&theme=black&show_icons=true&hide_border=true&layout=compact' />
