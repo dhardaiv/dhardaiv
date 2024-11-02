@@ -2,4 +2,5 @@
 
 ## Languages
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,python,c,cpp,tensorflow)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,python,c,cpp,tensorflow,pytorch,sklearn)](https://skillicons.dev)
+
