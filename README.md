@@ -4,4 +4,4 @@
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,python,c,cpp)](https://skillicons.dev)
 
 ## Frameworks
-[![My Skills](https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,nextjs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,nextjs,reactjs)](https://skillicons.dev)
