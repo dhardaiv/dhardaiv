@@ -1,4 +1,6 @@
-👋Hey, I am Daivik. currently studying engineering @ UofT and building side projects.
+Hello, I am Daivik. 
+
+I am currently studying engineering @ UofT (focusing in AI and Robotics) while building side projects.
 
 ## Languages
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,python,c,cpp,rust)](https://skillicons.dev)
